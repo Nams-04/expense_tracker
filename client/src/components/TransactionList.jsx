@@ -3,7 +3,7 @@ import axios from "axios";
 function TransactionList({ transactions, fetchData }) {
 
   const deleteItem = async (id) => {
-    await axios.delete(`http://localhost:5000/api/transactions/${id}`);
+    await axios.delete(`https://expense-tracker-8u9j.onrender.com/api/transactions/${id}`);
     fetchData();
   };
 

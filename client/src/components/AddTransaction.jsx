@@ -9,7 +9,7 @@ function AddTransaction({ fetchData }) {
   const handleSubmit = async (e) => {
     e.preventDefault();
 
-    await axios.post("http://localhost:5000/api/transactions", {
+    await axios.post("https://expense-tracker-8u9j.onrender.com/api/transactions", {
       text,
       amount: Number(amount),
       category

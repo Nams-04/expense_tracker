@@ -10,7 +10,7 @@ function App() {
   const [selectedCategory, setSelectedCategory] = useState("All");
 
   const fetchData = async () => {
-    const res = await axios.get("http://localhost:5000/api/transactions");
+    const res = await axios.get("https://expense-tracker-8u9j.onrender.com/api/transactions");
     setTransactions(res.data);
   };
 
