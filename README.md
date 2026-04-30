@@ -37,7 +37,7 @@ expense-tracker/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/expense-tracker.git
+git clone https://github.com/Nams-04/expense_tracker.git
 cd expense-tracker
 ```
 
