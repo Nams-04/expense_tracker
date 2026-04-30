@@ -1,11 +1,11 @@
-# 💰 Expense Tracker (MERN)
+# Expense Tracker (MERN)
 
 A simple full-stack Expense Tracker built using the MERN stack.
 This application allows users to add, view, and delete transactions while tracking their balance.
 
 ---
 
-## 🚀 Features
+## Features
 
 * Add income and expense transactions
 * Delete transactions
@@ -16,7 +16,7 @@ This application allows users to add, view, and delete transactions while tracki
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * Frontend: React (Vite)
 * Backend: Node.js, Express
@@ -24,7 +24,7 @@ This application allows users to add, view, and delete transactions while tracki
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 expense-tracker/
 ├── client/   # React frontend
@@ -74,7 +74,7 @@ npm run dev
 
 ---
 
-## 🌐 API Endpoints
+## API Endpoints
 
 | Method | Endpoint              | Description          |
 | ------ | --------------------- | -------------------- |
@@ -84,21 +84,28 @@ npm run dev
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
-(Add your project screenshots here)
+### Home Page
+
+![Home](screenshots/home.png)
+
+### Adding a transactions
+
+![Adding a transaction](screenshots/transactions.png)
+
+### Watchlist View
+
+![Filter the bills](screenshots/filter.png)
 
 ---
 
-## 📌 Future Improvements
-
-* Add charts for visualization
-* User authentication
-* Edit transactions
-* Dark mode
-
----
-
-## 👩‍💻 Author
+##  Author
 
 Namratha Reddy
+
+
+
+
+
+
