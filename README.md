@@ -94,7 +94,7 @@ npm run dev
 
 ![Adding a transaction](screenshots/transactions.png)
 
-### Watchlist View
+### Filter the bills
 
 ![Filter the bills](screenshots/filter.png)
 
